@@ -1,0 +1,18 @@
+# Roblox build artifacts
+*.rbxl
+*.rbxlx
+*.sourcemap.json
+
+# Wally packages
+Packages/
+wally.lock
+
+# Rojo output
+*.place.project.json
+*.rbxm
+*.rbxmx
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
